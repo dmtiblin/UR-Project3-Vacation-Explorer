@@ -4,7 +4,7 @@
 
 After nearly two years spent living through a pandemic, many cautious would-be travellers are wondering where it is safe to go. And not only that, but where are we allowed to go and with what restrictions? There were already so many factors to consider when planning a trip, and now it has become exponentially more complicated.
 
-Our team wanted to provide a comprehensive travel exploration dashboard for these individuals where their various concerns could be visualized all at once (as opposed to traversing the depths of the internet until all of a sudden you're 20 tabs deep!). Our dashboard includes information regarding COVID-19 rates, weather, tourist attractions, and quick access to travel restrictions and fight information via the use of widgets. 
+Our team wanted to provide a comprehensive travel exploration dashboard for these individuals where their various concerns could be visualized all at once (as opposed to traversing the depths of the internet until all of a sudden you're 50 tabs deep!). Our dashboard includes information regarding COVID-19 rates, weather, tourist attractions, and quick access to travel restrictions and flight information via the use of widgets. 
 
 ## Process 
 
